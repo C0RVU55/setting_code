@@ -34,6 +34,8 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${org.springframework-version}</version>
 		</dependency>
+		
+		<!-- //////////////////////처음 설정////////////////////// -->
 
 		<!-- jstl -->
 		<dependency>

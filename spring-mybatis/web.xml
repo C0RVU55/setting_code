@@ -43,6 +43,8 @@
 		<filter-name>encodingFilter</filter-name>
 		<url-pattern>/*</url-pattern>
 	</filter-mapping>
+	
+	<!-- //////////////////////처음 설정////////////////////// -->
 
 	<!-- Context Listener 등록 -->
 	<listener>
